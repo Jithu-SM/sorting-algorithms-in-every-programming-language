@@ -15,19 +15,22 @@ Sorting algorithms are a fundamental part of computer science and software devel
 
 ## Available Algorithms
 Here are the algorithms we aim to cover:
+- Bitonic Sort 
+- Block Sort
+- Bogo Sort
 - Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
+- Bucket Sort 
+- Counting Sort 
 - Heap Sort
-- Radix Sort
-- Counting Sort
+- Insertion Sort 
+- Intro Sort 
+- Merge Sort 
+- Pancake Sort 
+- Quick Sort 
+- Radix Sort 
+- Randomized Quick Sort 
+- Selection Sort
 - Shell Sort
-- Bucket Sort
-- Comb Sort
-- Cocktail Shaker Sort
-- Gnome Sort
 - Tim Sort
 
 Feel free to suggest or contribute additional algorithms!
