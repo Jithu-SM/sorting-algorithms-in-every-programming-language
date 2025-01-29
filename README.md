@@ -19,8 +19,11 @@ Here are the algorithms we aim to cover:
 - Block Sort
 - Bogo Sort
 - Bubble Sort
-- Bucket Sort 
-- Counting Sort 
+- Bucket Sort
+- Cocktail Shaker Sort
+- Comb Sort
+- Counting Sort
+- Gnome Sort
 - Heap Sort
 - Insertion Sort 
 - Intro Sort 
