@@ -15,26 +15,26 @@ Sorting algorithms are a fundamental part of computer science and software devel
 
 ## [Available Algorithms](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md)
 Here are the algorithms we aim to cover:
-- [Bitonic Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#1-bitonic-sort) 
-- Block Sort
-- Bogo Sort
-- Bubble Sort
-- Bucket Sort
-- Cocktail Shaker Sort
-- Comb Sort
-- Counting Sort
-- Gnome Sort
-- Heap Sort
-- Insertion Sort 
-- Intro Sort 
-- Merge Sort 
-- Pancake Sort 
-- Quick Sort 
-- Radix Sort 
-- Randomized Quick Sort 
-- Selection Sort
-- Shell Sort
-- Tim Sort
+- [Bitonic Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#bitonic-sort) 
+- [Block Sort](http://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/tree/main/.algorithms#block-sort)
+- [Bogo Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#bogo-sort)
+- [Bubble Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#bubble-sort)
+- [Bucket Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#bucket-sort)
+- [Cocktail Shaker Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#cocktail-shaker-sort)
+- [Comb Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#comb-sort)
+- [Counting Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#counting-sort)
+- [Gnome Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#gnome-sort)
+- [Heap Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#heap-sort)
+- [Insertion Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#insertion-sort) 
+- [Intro Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#intro-sort)
+- [Merge Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#merge-sort)
+- [Pancake Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#pancake-sort) 
+- [Quick Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#quick-sort)
+- [Radix Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#radix-sort)
+- [Randomized Quick Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#randomized-quick-sort) 
+- [Selection Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#selection-sort)
+- [Shell Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#shell-sort)
+- [Tim Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#tim-sort)
 
 Feel free to suggest or contribute additional algorithms!
 
