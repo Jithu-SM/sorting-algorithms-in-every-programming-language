@@ -13,7 +13,7 @@ Welcome to the **Sorting Algorithms in Every Programming Language** repository! 
 ## Introduction
 Sorting algorithms are a fundamental part of computer science and software development. This repository collects implementations of sorting algorithms such as Bubble Sort, Quick Sort, Merge Sort, and others in a variety of programming languages. It serves as a reference for developers and students alike to understand how these algorithms are implemented across different platforms and languages.
 
-## Available Algorithms
+## [Available Algorithms](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md)
 Here are the algorithms we aim to cover:
 - Bitonic Sort 
 - Block Sort
