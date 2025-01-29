@@ -15,7 +15,7 @@ Sorting algorithms are a fundamental part of computer science and software devel
 
 ## [Available Algorithms](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md)
 Here are the algorithms we aim to cover:
-- Bitonic Sort 
+- [Bitonic Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#1-bitonic-sort) 
 - Block Sort
 - Bogo Sort
 - Bubble Sort
