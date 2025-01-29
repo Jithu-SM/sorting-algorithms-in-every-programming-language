@@ -16,25 +16,25 @@ Sorting algorithms are a fundamental part of computer science and software devel
 ## [Available Algorithms](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md)
 Here are the algorithms we aim to cover:
 - [Bitonic Sort](https://github.com/Jithu-SM/sorting-algorithms-in-every-programming-language/blob/main/.algorithms/README.md#1-bitonic-sort) 
-- Block Sort
-- Bogo Sort
-- Bubble Sort
-- Bucket Sort
-- Cocktail Shaker Sort
-- Comb Sort
-- Counting Sort
-- Gnome Sort
-- Heap Sort
-- Insertion Sort 
-- Intro Sort 
-- Merge Sort 
-- Pancake Sort 
-- Quick Sort 
-- Radix Sort 
-- Randomized Quick Sort 
-- Selection Sort
-- Shell Sort
-- Tim Sort
+- [Block Sort]()
+- [Bogo Sort]()
+- [Bubble Sort]()
+- [Bucket Sort]()
+- [Cocktail Shaker Sort]()
+- [Comb Sort]()
+- [Counting Sort]()
+- [Gnome Sort]()
+- [Heap Sort]()
+- [Insertion Sort]() 
+- [Intro Sort]()
+- [Merge Sort]()
+- [Pancake Sort]() 
+- [Quick Sort]()
+- [Radix Sort]()
+- [Randomized Quick Sort]() 
+- [Selection Sort]()
+- [Shell Sort]()
+- [Tim Sort]()
 
 Feel free to suggest or contribute additional algorithms!
 
