@@ -39,12 +39,10 @@ def tim_sort(arr):
     MIN_RUN = 32
     n = len(arr)
 
-    # Step 1: Sort small chunks (runs) using Insertion Sort
     for start in range(0, n, MIN_RUN):
         end = min(start + MIN_RUN - 1, n - 1)
         insertion_sort(arr, start, end)
 
-    # Step 2: Merge sorted runs using Merge Sort
     size = MIN_RUN
     while size < n:
         for left in range(0, n, 2 * size):
