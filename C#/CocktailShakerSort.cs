@@ -34,7 +34,7 @@ class CocktailShakerSort
             }
         } while (swapped);
     }
-
+    
     public static void Main()
     {
         int[] arr = { 5, 3, 8, 4, 2, 7, 1, 6 };
