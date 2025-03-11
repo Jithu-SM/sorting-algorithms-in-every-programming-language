@@ -10,3 +10,6 @@ def gnome_sort(arr):
             index -= 1
 
     return arr
+
+arr=[3, 7, 4, 8, 6, 2, 1, 5, 0, -5]
+print(gnome_sort(arr))

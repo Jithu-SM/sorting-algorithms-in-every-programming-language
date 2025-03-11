@@ -36,3 +36,7 @@ def intro_sort(arr, max_depth):
 def sort_intro(arr):
     max_depth = int(math.log(len(arr), 2)) * 2
     return intro_sort(arr, max_depth)
+
+
+arr = [3, 7, 4, 8, 6, 2, 1, 5, 0, -5]
+print(sort_intro(arr))

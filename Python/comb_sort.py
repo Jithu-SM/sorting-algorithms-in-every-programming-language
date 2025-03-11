@@ -14,3 +14,8 @@ def comb_sort(arr):
                 sorted_flag = False  
 
     return arr
+
+
+arr = [64, 34, 25, 12, 22, 11, 90, 0]
+sorted_arr = comb_sort(arr)
+print("Sorted array:", sorted_arr)

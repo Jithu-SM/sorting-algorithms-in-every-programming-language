@@ -27,3 +27,6 @@ def sort(arr):
     high = len(arr) - 1
     arr = randomized_quick_sort(arr, low, high)
     return arr
+
+arr = [3, 7, 4, 8, 6, 2, 1, 5, 0, -5, -2]
+print(sort(arr))

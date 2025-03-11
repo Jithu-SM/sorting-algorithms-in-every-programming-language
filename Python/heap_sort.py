@@ -18,3 +18,6 @@ def heap_sort(arr):
         arr[i], arr[0] = arr[0], arr[i]
         heapify(arr, i, 0)
     return arr
+
+arr = [3, 7, 4, 8, 6, 2, 1, 5, 0, -5, -2]
+print(heap_sort(arr))

@@ -15,7 +15,7 @@ def merge(arr, left, mid, right):
     
     i = j = 0
     k = left
-
+    
     while i < len(left_part) and j < len(right_part):
         if left_part[i] < right_part[j]:
             arr[k] = left_part[i]
@@ -52,3 +52,6 @@ def block_sort(arr):
     block_merge_sort(arr, 0, n - 1)
 
     return arr
+
+arr = [3, 7, 4, 8, 6, 2, 1, 5, 0, -5]
+print(block_sort(arr))

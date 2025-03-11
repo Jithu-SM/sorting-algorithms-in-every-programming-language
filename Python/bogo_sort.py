@@ -7,3 +7,6 @@ def bogo_sort(arr):
     while not is_sorted(arr):
         random.shuffle(arr)
     return arr
+
+arr = [3, 7, 4, 8, 6, 2, 0]
+print(bogo_sort(arr))

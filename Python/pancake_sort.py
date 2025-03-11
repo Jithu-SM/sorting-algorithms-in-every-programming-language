@@ -9,3 +9,6 @@ def pancake_sort(arr):
             flip(arr, max_idx + 1)
             flip(arr, curr_size)
     return arr
+
+arr = [3, 7, 4, 8, 6, 2, 1, 5, 0, -2]
+print(pancake_sort(arr))

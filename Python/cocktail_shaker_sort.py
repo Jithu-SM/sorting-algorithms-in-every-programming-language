@@ -26,3 +26,6 @@ def cocktail_shaker_sort(arr):
         start += 1  
 
     return arr
+
+arr=[3, 7, 4, 8, 6, 2, 1, 5, 0, -5]
+print(cocktail_shaker_sort(arr))
