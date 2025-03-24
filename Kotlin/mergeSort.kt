@@ -35,7 +35,7 @@ fun merge(left: IntArray, right: IntArray): IntArray {
 }
 
 fun main() {
-    val arr = intArrayOf(38, 27, 43, 3, 9, 82, 10, -1, 0, 23)
+    val arr = intArrayOf(38, 27, 43, 3, 9, 82, 10, -1, 0, 23, 7)
     val sortedArr = mergeSort(arr)
     println(sortedArr.joinToString(", "))
 }
