@@ -67,6 +67,6 @@ function tim_sort(arr)
     end
 end
 
-local arr = {5, 1, 4, 2, 8, 3, 7, 6}
+local arr = {5, 1, 4, 2, 8, 3, 7, 6, 0}
 tim_sort(arr)
 print(table.concat(arr, " "))
