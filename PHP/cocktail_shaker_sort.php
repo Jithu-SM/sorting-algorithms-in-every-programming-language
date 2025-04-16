@@ -43,3 +43,5 @@ cocktailShakerSort($array);
 
 echo "Sorted Array:\n";
 echo "[" . implode(", ", $array) . "]\n";
+
+?>
